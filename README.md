@@ -1,0 +1,1 @@
+# netsdk-nuget-template
